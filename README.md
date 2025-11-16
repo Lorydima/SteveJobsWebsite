@@ -3,4 +3,6 @@
 
 My first website that I developed is dedicated at founder and former CEO of Apple Steve Jobs
 
+Developed by Lorenzo Di Marzo 1E A.S 2023/24
+
 **Note:** The language of website is in Italian
