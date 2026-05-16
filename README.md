@@ -1,5 +1,5 @@
 # Steve Jobs Website
-![image](https://github.com/user-attachments/assets/123760f0-e177-4402-8594-8c0e2ede77af)
+<img width="827" height="523" alt="image" src="https://github.com/user-attachments/assets/85c5be1c-4f48-456a-8a61-37ba46fd2346" />
 
 # ℹ️ Repository Info
 
